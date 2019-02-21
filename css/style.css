@@ -5,6 +5,8 @@
 	margin: 10px;
 	float: left;
 	text-align: center;
+	position: relative;
+	left:600px;
 	
 }
 .single-goods img{
